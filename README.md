@@ -1,6 +1,7 @@
 # Machine-Learning-Basics-with-Python
 Preprocessing of data preparation for ingestion by machine learning algorithms and it's conversion into the right format
 Several preprocessing techniques starting with binarization:
+
 -Binarization
 
 -Mean removal
